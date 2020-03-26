@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.119.3](https://www.github.com/googleapis/java-containeranalysis/compare/v0.119.2...v0.119.3) (2020-03-26)
+
+
+### Dependencies
+
+* update dependency com.google.api:api-common to v1.9.0 ([#106](https://www.github.com/googleapis/java-containeranalysis/issues/106)) ([af917ba](https://www.github.com/googleapis/java-containeranalysis/commit/af917ba80ee61970d2e682b20fd344f087181479))
+
 ### [0.119.2](https://www.github.com/googleapis/java-containeranalysis/compare/v0.119.1...v0.119.2) (2020-03-11)
 
 
